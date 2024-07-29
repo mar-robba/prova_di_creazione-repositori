@@ -1,0 +1,12 @@
+if(a==b)
+{
+	printf("a=b");
+}
+
+int a=0;
+int b=a;
+
+for (int i=0, i<10 , i++)
+{
+	pritf("\iterazione riuscita");
+}

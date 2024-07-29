@@ -1,0 +1,1 @@
+void funzionetmp(void);
