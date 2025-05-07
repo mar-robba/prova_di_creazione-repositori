@@ -1,1 +1,1 @@
-Base per un programma genetico che lavora sul sorgente del C
+Base per un programma genetico in c
